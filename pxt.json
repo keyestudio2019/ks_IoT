@@ -5,6 +5,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:keyestudio2019/ks_neopixel_bluetooth",
+        "LCD1602 IIC": "github:makecode-extensions/i2cLCD1602",
         "microphone": "*"
     },
     "files": [
