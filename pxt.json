@@ -1,0 +1,24 @@
+{
+    "name": "Desk_Bit",
+    "version": "0.0.8",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:mworkfun/pxt-neopixel-bluetooth",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "targetOverrides.ts",
+        "ns.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
