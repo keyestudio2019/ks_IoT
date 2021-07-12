@@ -7,7 +7,7 @@
 
 //% color="#ff6800" icon="\uf1b9" 
 //% groups='["Car", "Servo", "Configuration"]'
-namespace DeskBit {
+namespace IoT_keyes {
 
     //% fixedInstances
     export class Servo {

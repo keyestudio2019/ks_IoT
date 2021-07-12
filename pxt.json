@@ -17,8 +17,23 @@
         "test.ts"
     ],
     "public": false,
+    "targetVersions": {
+        "target": "4.0.9",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "open": 1,
+                    "whitelist": 0,
+                    "security_level": null
+                }
+            }
+        }
+    }
 }
