@@ -12,7 +12,6 @@
     "files": [
         "README.md",
         "main.ts",
-        "targetOverrides.ts",
         "ns.ts"
     ],
     "testFiles": [
