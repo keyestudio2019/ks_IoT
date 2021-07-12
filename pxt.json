@@ -1,10 +1,10 @@
 {
-    "name": "Desk_Bit",
-    "version": "0.0.8",
+    "name": "IoT_keyes",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:mworkfun/pxt-neopixel-bluetooth",
+        "neopixel": "github:keyestudio2019/ks_neopixel_bluetooth",
         "microphone": "*"
     },
     "files": [
