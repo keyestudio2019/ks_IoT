@@ -6,6 +6,7 @@
         "core": "*",
         "neopixel": "github:keyestudio2019/ks_neopixel_bluetooth",
         "LCD1602 IIC": "github:makecode-extensions/i2cLCD1602",
+        "DHT11_22": "github:keyestudio2019/ks_dht11_22",
         "microphone": "*"
     },
     "files": [
